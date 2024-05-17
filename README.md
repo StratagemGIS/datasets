@@ -1,26 +1,27 @@
 # datasets
 
-## Vector
-
-| No     | Description               | File Name                            | Source                                                                                     |
-| :----: | :-----------------------: | :----------------------------------: | :----------------------------------------------------------------------------------------: |
-|  1     |  NB Counties              |  geonb_county-comte_shp.zip          |  http://www.snb.ca/geonb1/e/DC/county.asp                                                  |
-|  2     |  NB Road Network          |  geonb_nbrn-rrnb_shp.zip             |  http://www.snb.ca/geonb1/e/DC/NBRN.asp                                                    |
-|  3     |  Fredericton Boundary     |  City_Boundary.zip                   |  https://data-fredericton.opendata.arcgis.com/datasets/Fredericton::city-boundary/about    |
-|  4     |  World Graticules         |  ne_10m_graticules_all.zip           |  https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-graticules/           |
-|  5     |  World Boundaries         |  world_map.gpkg                      |  QGIS                                                                                      |
-|  6     |  NB Addresses             |  geonb_anb_shp.zip                   |  http://www.snb.ca/geonb1/e/DC/ANB.asp                                                     |
-
-
-## Raster
-
-| No     | Description                     | File Name                            | Source                                                                                                                   |
-| :----: | :-----------------------------: | :----------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-|  1     |  Sentinel-2 L2A (10 bands)      |  oromocto_jun2021_composite.tif      |  [Google Earth Engine L2A](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED)      |
-
-
 ## Table
 
 | No     | Description               | File Name                                        | Source                                                                                     |
 | :----: | :-----------------------: | :----------------------------------------------: | :----------------------------------------------------------------------------------------: |
 |  1     |  NB Drill Holes           |  exploration_drillholes_geonb_apr26_2024.csv     |  https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/metallic-minerals.html#3     |
+
+
+## Vector
+
+| No     | Description               | File Name                            | Source                                                                                     |  Preview                                                                                                                               |
+| :----: | :-----------------------: | :----------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | 
+|  1     |  NB Counties              |  geonb_county-comte_shp.zip          |  http://www.snb.ca/geonb1/e/DC/county.asp                                                  |  <img width="711" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/15eb562e-747f-44d1-99b1-ead6161f793f">     |
+|  2     |  NB Road Network          |  geonb_nbrn-rrnb_shp.zip             |  http://www.snb.ca/geonb1/e/DC/NBRN.asp                                                    |  <img width="711" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/27b5c1a8-192e-461c-ac38-06dfc671ca90">     |
+|  3     |  Fredericton Boundary     |  City_Boundary.zip                   |  https://data-fredericton.opendata.arcgis.com/datasets/Fredericton::city-boundary/about    |  <img width="713" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/5b4d6be7-aa1b-4993-bf8e-bad982cda2e7">     |
+|  4     |  World Graticules         |  ne_10m_graticules_all.zip           |  https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-graticules/           |  <img width="1121" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/072ed05a-b605-478f-a4de-3d7b217a8b26">    |
+|  5     |  World Boundaries         |  world_map.gpkg                      |  QGIS                                                                                      |  <img width="1121" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/ee202f4c-fda0-40ff-8826-7b894662fc45">    |
+|  6     |  NB Addresses             |  geonb_anb_shp.zip                   |  http://www.snb.ca/geonb1/e/DC/ANB.asp                                                     |  <img width="695" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/1008421d-087c-4c59-8ba9-9bcaccadd9ab">     |
+
+
+## Raster
+
+| No     | Description                     | File Name                            | Source                                                                                                                   |  Preview                                                                                                                               |
+| :----: | :-----------------------------: | :----------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+|  1     |  Sentinel-2 L2A (10 bands)      |  oromocto_jun2021_composite.tif      |  [Google Earth Engine L2A](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED)      |  <img width="300" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/1632c299-95fb-4844-b472-64efdbeef457">     |
+
