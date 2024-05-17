@@ -23,5 +23,5 @@
 
 | No     | Description                     | File Name                            | Source                                                                                                                   |  Preview                                                                                                                               |
 | :----: | :-----------------------------: | :----------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
-|  1     |  Sentinel-2 L2A (10 bands)      |  oromocto_jun2021_composite.tif      |  [Google Earth Engine L2A](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED)      |  <img width="300" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/1632c299-95fb-4844-b472-64efdbeef457">     |
+|  1     |  Sentinel-2 L2A (10 bands)      |  oromocto_jun2021_composite.tif      |  [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED)      |  <img width="300" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/1632c299-95fb-4844-b472-64efdbeef457">     |
 
