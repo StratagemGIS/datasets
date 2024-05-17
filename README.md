@@ -16,7 +16,7 @@
 
 | No     | Description                     | File Name                            | Source                                                                                                                   |
 | :----: | :-----------------------------: | :----------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-|  1     |  Sentinel-2 L2A (10 bands)      |  oromocto_jun2021_composite.tif      |  ([Google Earth Engine L2A](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED))    |
+|  1     |  Sentinel-2 L2A (10 bands)      |  oromocto_jun2021_composite.tif      |  [Google Earth Engine L2A](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED)      |
 
 
 ## Table
