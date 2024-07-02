@@ -14,6 +14,7 @@
 | :----: | :-----------------------: | :----------------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | 
 |  1     |  NB Drill Holes           |  exploration_drillholes_geonb_apr26_2024.csv     |  https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/metallic-minerals.html#3     |  <img width="1439" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/6ac92002-3d1b-494a-ab48-4d10d69b56f8">    |
 |  2     |  palmerpenguins           |  penguins.csv, penguins_raw.csv                  |  https://allisonhorst.github.io/palmerpenguins/                                            |  <img width="751" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/bebfd7a9-38f5-4259-92ce-8075b45b91f7">     |
+|  3     |  30000 Spotify Songs      |  spotify_songs.csv                               |  https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs                       |  <img width="1476" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/05d6e372-ae2a-4d20-8661-928ffb14e0d9">    |
 
 
 ## Vector
