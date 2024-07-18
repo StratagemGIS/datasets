@@ -37,3 +37,10 @@
 |  2     |  Sentinel-2 L1C (10 bands)      |  nb_l1c_jun2021_composite.tif               |  [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_HARMONIZED)             |  <img width="300" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/0b761511-82ff-4b7b-a577-ff93d2328422">     |
 |  3     |  NB Ortho Imagery               |  U22.tif                                    |  https://geonb.snb.ca/nbimagery/index.html                                                                               |  <img width="1334" alt="image" src="https://github.com/StratagemGIS/datasets/assets/24793046/0c677926-14c7-4c2d-a047-2a237d573501">    |
 |  4     |  Sentinel-1 VV & VH             |  oromocto_jun2021_composite_s1_vv_vh.tif    |  [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD)                    |  ![image](https://github.com/StratagemGIS/datasets/assets/24793046/10d80022-10f3-4b7a-b2e6-edb302cacb62)                               |
+
+
+## LIDAR
+
+| No     | Description                     | File Name                                      | Source                                             |  Preview                                                                                                                               |
+| :----: | :-----------------------------: | :--------------------------------------------: | :------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+|  1     |  NB Lidar Data                  |  nb_2015_2487000_7438000_u22_extent.las.zip    |  https://geonb.snb.ca/li/                          |  ![image](https://github.com/user-attachments/assets/d6ae60e9-05d3-4a23-97f2-da49e1506787)                                             | 
